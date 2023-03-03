@@ -7,7 +7,8 @@ motivación y con muchas ganas de trabajar y aprender, tengo como objetivo
 desarrollarme profesionalmente y evolucionar en mi sector, buscando para ello
 oportunidades que me permitan hacerlo.
 
-## Habilidades
+
+## 🛠 Habilidades
 - **Pack Adobe**
    * Ilustrator
    * Photoshop
@@ -33,7 +34,8 @@ oportunidades que me permitan hacerlo.
     * Construct2
     * Pack Microsoft
 
-## Proyectos
+
+## 🚀 Proyectos
 * [**Portfolio**][porfolio]: Recopilación de algunos de mis proyectos gráficos y de desarrollo web.
 * [**Prinet+**][prinet]: Plataforma de streaming.
 * [**Puzzle Cards**][puzzles]: Minijuego de cartas con puzles.
@@ -41,7 +43,8 @@ oportunidades que me permitan hacerlo.
 * [**Systems of Cosmere**][cosmere]: Mapa interactivo de los sistemas del Cosmere (universo de Brandon Sanderson)
 * [**Animal Crossing Bingo**][bingoac]: Bingo basado en el juego Animal Crossing.
 
-## Hobbies e intereses
+
+## 👀 Hobbies e intereses
 * 🎬 Cine
 * 🎮 Juegos
 * 🎧 Música
@@ -51,13 +54,16 @@ oportunidades que me permitan hacerlo.
 * 🎹 Piano
 * ✏ Diseño
 
-## Contacto
+
+## 📞 Contacto
 Codepen: [@GariCarandai][codepen]
+
 Github: [adrian-gg][github]
+
 Twitter: [@GariCarandai][twitter]
 
-## Tarea [Undefined Academy][undefined.academy]
----
+
+## 📓 Tarea [Undefined Academy][undefined.academy]
 ### Comandos:
 | Comando | Descripción                                                      |
 | ------- | ---------------------------------------------------------------- |
@@ -72,10 +78,10 @@ Twitter: [@GariCarandai][twitter]
 
 | Alias | Comando                                       | Descripción                     |
 | ----- | --------------------------------------------- | ------------------------------- |
-| cl    | `clear`                                       | Limbia la consola               |
-| findd | `ls ~/ | grep $1`                             | Filtro de busqueda              |
-| rm    | `trash`                                       | Enviar a la papelera un archivo |
-| cafe  | ``cat /dev/urandom | hexdump | grep \"ca fe\"`` | Voy a por un cafe               |
+| cl    | clear                                         | Limbia la consola               |
+| findd | ls ~/ \| grep $1                              | Filtro de busqueda              |
+| rm    | trash                                         | Enviar a la papelera un archivo |
+| cafe  | cat /dev/urandom \| hexdump \| grep \"ca fe\" | Voy a por un cafe               |
 
 
 [//]: # (Links)
