@@ -56,11 +56,9 @@ oportunidades que me permitan hacerlo.
 
 
 ## 📞 Contacto
-Codepen: [@GariCarandai][codepen]
-
-Github: [adrian-gg][github]
-
-Twitter: [@GariCarandai][twitter]
+* Codepen: [@GariCarandai][codepen]
+* Github: [adrian-gg][github]
+* Twitter: [@GariCarandai][twitter]
 
 
 ## 📓 Tarea [Undefined Academy][undefined.academy]
