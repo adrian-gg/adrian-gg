@@ -63,23 +63,23 @@ oportunidades que me permitan hacerlo.
 
 ## 📓 Tarea [Undefined Academy][undefined.academy]
 ### Comandos:
-| Comando | Descripción                                                      |
-| ------- | ---------------------------------------------------------------- |
-| cd      | Navega entre carpetas                                            |
-| ls      | Muestra un listado de los archivos de la ruta actual             |
-| touch   | Crea un archivo nuevo                                            |
-| cat     | Imprime el contenido de un archivo dado                          |
-| rm      | Elimina un archivo                                               |
-| mv      | Mueve, crea, genera una copia de seguridad o renombra un archivo |
+| Comando     | Descripción                                                      |
+| ----------- | ---------------------------------------------------------------- |
+| ``cd``      | Navega entre carpetas                                            |
+| ``ls``      | Muestra un listado de los archivos de la ruta actual             |
+| ``touch``   | Crea un archivo nuevo                                            |
+| ``cat``     | Imprime el contenido de un archivo dado                          |
+| ``rm``      | Elimina un archivo                                               |
+| ``mv``      | Mueve, crea, genera una copia de seguridad o renombra un archivo |
 
 ### Alias:
 
-| Alias | Comando                                       | Descripción                     |
-| ----- | --------------------------------------------- | ------------------------------- |
-| cl    | clear                                         | Limpia la consola               |
-| findd | ls ~/ \| grep $1                              | Filtro de busqueda              |
-| rm    | trash                                         | Enviar a la papelera un archivo |
-| cafe  | cat /dev/urandom \| hexdump \| grep \"ca fe\" | Voy a por un cafe               |
+| Alias | Comando                                           | Descripción                     |
+| ----- | ------------------------------------------------- | ------------------------------- |
+| cl    | ``clear``                                         | Limpia la consola               |
+| findd | ``ls ~/ \| grep $1``                              | Filtro de busqueda              |
+| rm    | ``trash``                                         | Enviar a la papelera un archivo |
+| cafe  | ``cat /dev/urandom \| hexdump \| grep \"ca fe\"`` | Voy a por un cafe               |
 
 
 [//]: # (Links)
