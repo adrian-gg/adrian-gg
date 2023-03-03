@@ -76,7 +76,7 @@ oportunidades que me permitan hacerlo.
 
 | Alias | Comando                                       | Descripción                     |
 | ----- | --------------------------------------------- | ------------------------------- |
-| cl    | clear                                         | Limbia la consola               |
+| cl    | clear                                         | Limpia la consola               |
 | findd | ls ~/ \| grep $1                              | Filtro de busqueda              |
 | rm    | trash                                         | Enviar a la papelera un archivo |
 | cafe  | cat /dev/urandom \| hexdump \| grep \"ca fe\" | Voy a por un cafe               |
