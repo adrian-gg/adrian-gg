@@ -8,7 +8,6 @@ desarrollarme profesionalmente y evolucionar en mi sector, buscando para ello
 oportunidades que me permitan hacerlo.
 
 ## Habilidades
----
 - **Pack Adobe**
    * Ilustrator
    * Photoshop
@@ -35,7 +34,6 @@ oportunidades que me permitan hacerlo.
     * Pack Microsoft
 
 ## Proyectos
----
 * [**Portfolio**][porfolio]: Recopilación de algunos de mis proyectos gráficos y de desarrollo web.
 * [**Prinet+**][prinet]: Plataforma de streaming.
 * [**Puzzle Cards**][puzzles]: Minijuego de cartas con puzles.
@@ -44,7 +42,6 @@ oportunidades que me permitan hacerlo.
 * [**Animal Crossing Bingo**][bingoac]: Bingo basado en el juego Animal Crossing.
 
 ## Hobbies e intereses
----
 * 🎬 Cine
 * 🎮 Juegos
 * 🎧 Música
@@ -55,7 +52,6 @@ oportunidades que me permitan hacerlo.
 * ✏ Diseño
 
 ## Contacto
----
 Codepen: [@GariCarandai][codepen]
 Github: [adrian-gg][github]
 Twitter: [@GariCarandai][twitter]
@@ -79,7 +75,7 @@ Twitter: [@GariCarandai][twitter]
 | cl    | `clear`                                       | Limbia la consola               |
 | findd | `ls ~/ | grep $1`                             | Filtro de busqueda              |
 | rm    | `trash`                                       | Enviar a la papelera un archivo |
-| cafe  | `cat /dev/urandom | hexdump | grep \"ca fe\"` | Voy a por un cafe               |
+| cafe  | ``cat /dev/urandom | hexdump | grep \"ca fe\"`` | Voy a por un cafe               |
 
 
 [//]: # (Links)
