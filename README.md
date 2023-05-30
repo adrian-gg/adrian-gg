@@ -41,6 +41,7 @@ oportunidades que me permitan hacerlo.
 * [**Puzzle Cards**][puzzles]: Minijuego de cartas con puzles.
 * [**Copa de las Casas**][ladysibi]: Contador de puntos de la copa de las casas de ls streamer LadySibi.
 * [**Systems of Cosmere**][cosmere]: Mapa interactivo de los sistemas del Cosmere (universo de Brandon Sanderson)
+* [**Hollow knight HOG**][hollow]: Recreación del salón de los dioses del videojuego Hollow knight.
 * [**Animal Crossing Bingo**][bingoac]: Bingo basado en el juego Animal Crossing.
 
 
@@ -86,6 +87,7 @@ oportunidades que me permitan hacerlo.
 [porfolio]: <https://adrian-gg.github.io>
 [prinet]: <https://adrian-gg.github.io/prinet-web_react/>
 [cosmere]: <https://adrian-gg.github.io/cosmere_systems>
+[hollow]: <https://adrian-gg.github.io/hollow_knight_hog/>
 [bingoac]: <https://adrian-gg.github.io/ac_bingo/index.html>
 [puzzles]: <https://adrian-gg.github.io/puzzle_cards/>
 [ladysibi]: <https://copacasas.ladysibi.com/>
