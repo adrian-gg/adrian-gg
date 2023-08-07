@@ -9,6 +9,19 @@ oportunidades que me permitan hacerlo.
 
 
 ## 🛠 Habilidades
+
+- **Desarrollo web**
+    * HTML
+    * CSS
+    * JavaScript
+    * React
+    * PHP
+    * MySQL
+* **Herramientas**
+    * Visual Studio Code
+    * Figma
+    * Trello/Asana
+    * Slack
 - **Pack Adobe**
    * Ilustrator
    * Photoshop
@@ -16,18 +29,6 @@ oportunidades que me permitan hacerlo.
    * After Effects
    * Premiere Pro
    * Xd
-* **Desarrollo web**
-    * HTML
-    * CSS
-    * JavaScript
-    * React
-    * PHP
-    * MySQL
-- **Herramientas**
-    * Visual Studio Code
-    * Figma
-    * Trello/Asana
-    * Slack
 * **Otros**
     * Blender
     * Unity
@@ -62,26 +63,6 @@ oportunidades que me permitan hacerlo.
 * Twitter: [@GariCarandai][twitter]
 
 
-## 📓 Tarea [Undefined Academy][undefined.academy]
-### Comandos:
-| Comando     | Descripción                                                      |
-| ----------- | ---------------------------------------------------------------- |
-| ``cd``      | Navega entre carpetas                                            |
-| ``ls``      | Muestra un listado de los archivos de la ruta actual             |
-| ``touch``   | Crea un archivo nuevo                                            |
-| ``cat``     | Imprime el contenido de un archivo dado                          |
-| ``rm``      | Elimina un archivo                                               |
-| ``mv``      | Mueve, crea, genera una copia de seguridad o renombra un archivo |
-
-### Alias:
-
-| Alias | Comando                                           | Descripción                     |
-| ----- | ------------------------------------------------- | ------------------------------- |
-| cl    | ``clear``                                         | Limpia la consola               |
-| findd | ``ls ~/ \| grep $1``                              | Filtro de busqueda              |
-| rm    | ``trash``                                         | Enviar a la papelera un archivo |
-| cafe  | ``cat /dev/urandom \| hexdump \| grep \"ca fe\"`` | Voy a por un cafe               |
-
 
 [//]: # (Links)
 [porfolio]: <https://adrian-gg.github.io>
@@ -94,4 +75,3 @@ oportunidades que me permitan hacerlo.
 [codepen]: <https://codepen.io/GariCarandai>
 [github]: <https://github.com/adrian-gg>
 [twitter]: <https://twitter.com/GariCarandai>
-[undefined.academy]: <https://undefined.academy/>
