@@ -38,13 +38,14 @@ oportunidades que me permitan hacerlo.
 
 ## 🚀 Proyectos
 * [**Portfolio**][porfolio]: Recopilación de algunos de mis proyectos gráficos y de desarrollo web.
-* [**Summancer**][summancer]: Juego de cartas aleatorias.
-* [**Prinet+**][prinet]: Plataforma de streaming.
-* [**Puzzle Cards**][puzzles]: Minijuego de cartas con puzles.
 * [**Copa de las Casas**][ladysibi]: Contador de puntos de la copa de las casas de ls streamer LadySibi.
+* [**Puzzle Cards**][puzzles]: Minijuego de cartas con puzles.
 * [**Systems of Cosmere**][cosmere]: Mapa interactivo de los sistemas del Cosmere (universo de Brandon Sanderson)
-* [**Hollow knight HOG**][hollow]: Recreación del salón de los dioses del videojuego Hollow knight.
-* [**Animal Crossing Bingo**][bingoac]: Bingo basado en el juego Animal Crossing.
+* [**Prinet+**][prinet]: Plataforma de streaming.
+* [**HK - Hall of Gods**][hollow]: Recreación del salón de los dioses del videojuego Hollow knight.
+* [**Summancer**][summancer]: Juego de cartas aleatorias.
+* [**UCM - Saga Infinity**][marvel1]: Todas las películas del UCM que conforman la saga Infinity.
+* [**Pokédex**][pokedex]: Pokédex con los 1017 pokémons.
 
 
 ## 👀 Hobbies e intereses
@@ -71,7 +72,8 @@ oportunidades que me permitan hacerlo.
 [prinet]: <https://adrian-gg.github.io/prinet-web_react/>
 [cosmere]: <https://adrian-gg.github.io/cosmere_systems>
 [hollow]: <https://adrian-gg.github.io/hollow_knight_hog/>
-[bingoac]: <https://adrian-gg.github.io/ac_bingo/index.html>
+[pokedex]: <https://adrian-gg.github.io/pokedex>
+[marvel1]: <https://adrian-gg.github.io/UCM>
 [puzzles]: <https://adrian-gg.github.io/puzzle_cards/>
 [ladysibi]: <https://copacasas.ladysibi.com/>
 [codepen]: <https://codepen.io/GariCarandai>
