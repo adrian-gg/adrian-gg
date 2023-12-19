@@ -46,6 +46,7 @@ oportunidades que me permitan hacerlo.
 * [**Summancer**][summancer]: Juego de cartas aleatorias.
 * [**UCM - Saga Infinity**][marvel1]: Todas las películas del UCM que conforman la saga Infinity.
 * [**Pokédex**][pokedex]: Pokédex con los 1017 pokémons.
+* [**New Super Mario Bros. Minigames**][nsmb]: Recreación de los minijuegos del juego New Super Mario Bros.
 
 
 ## 👀 Hobbies e intereses
@@ -74,8 +75,9 @@ oportunidades que me permitan hacerlo.
 [hollow]: <https://adrian-gg.github.io/hollow_knight_hog/>
 [pokedex]: <https://adrian-gg.github.io/pokedex>
 [marvel1]: <https://adrian-gg.github.io/UCM>
-[puzzles]: <https://adrian-gg.github.io/puzzle_cards/>
+[puzzles]: <https://adrian-gg.github.io/puzzle-cards/>
 [ladysibi]: <https://copacasas.ladysibi.com/>
 [codepen]: <https://codepen.io/GariCarandai>
 [github]: <https://github.com/adrian-gg>
 [twitter]: <https://twitter.com/GariCarandai>
+[nsmb]: <https://adrian-gg.github.io/nsmb-minigames/>
