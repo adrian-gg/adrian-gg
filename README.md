@@ -42,7 +42,7 @@ oportunidades que me permitan hacerlo.
 * [**Puzzle Cards**][puzzles]: Minijuego de cartas con puzles.
 * [**Systems of Cosmere**][cosmere]: Mapa interactivo de los sistemas del Cosmere (universo de Brandon Sanderson)
 * [**Prinet+**][prinet]: Plataforma de streaming.
-* [**HK - Hall of Gods**][hollow]: Recreación del salón de los dioses del videojuego Hollow knight.
+* [**Hollow knight - Salón de los Dioses**][hollow]: Recreación del Salón de los Dioses del videojuego Hollow knight.
 * [**Summancer**][summancer]: Juego de cartas aleatorias.
 * [**UCM - Saga Infinity**][marvel1]: Todas las películas del UCM que conforman la saga Infinity.
 * [**Pokédex**][pokedex]: Pokédex con los 1017 pokémons.
@@ -72,7 +72,7 @@ oportunidades que me permitan hacerlo.
 [summancer]: <https://adrian-gg.github.io/summancer/>
 [prinet]: <https://adrian-gg.github.io/prinet-web_react/>
 [cosmere]: <https://adrian-gg.github.io/cosmere_systems>
-[hollow]: <https://adrian-gg.github.io/hollow_knight_hog/>
+[hollow]: <https://adrian-gg.github.io/hollow-knight-hog/>
 [pokedex]: <https://adrian-gg.github.io/pokedex>
 [marvel1]: <https://adrian-gg.github.io/UCM>
 [puzzles]: <https://adrian-gg.github.io/puzzle-cards/>
