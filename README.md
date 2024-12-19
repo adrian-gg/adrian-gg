@@ -16,6 +16,7 @@ My goal is to continue developing in my field, always looking for new challenges
 ![jQuery](https://img.shields.io/badge/jQuery-303030?style=flat&logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-303030?style=flat&logo=react&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-303030?style=flat&logo=react&logoColor=white)
 ![mySQL](https://img.shields.io/badge/mySQL-303030?style=flat&logo=mysql&logoColor=white)
 
 ![Vite](https://img.shields.io/badge/Vite-303030?style=flat&logo=vite&logoColor=white)
@@ -39,25 +40,19 @@ My goal is to continue developing in my field, always looking for new challenges
 
 ## ◻ Projects
 
-[**Portfolio**][porfolio]: Compilation of some of my graphic and web development projects.
-
-[**Copa de las Casas**][ladysibi]: LadySibi streamer LadySibi's house cup points counter.
-
-[**Puzzle Cards**][puzzles]: Mini card game with puzzles.
-
-[**Systems of Cosmere**][cosmere]: Interactive map of the Cosmere systems (Brandon Sanderson's universe)
-
-[**Prinet+**][prinet]: Streaming platform (alpha)
-
-[**Hollow knight - Salón de los Dioses**][hollow]: Recreation of the Hall of Gods from the video game Hollow knight.
-
-[**Summancer**][summancer]: Random card game (iIn process)
-
-[**UCM - Saga Infinity**][marvel1]: All of the UCM films that make up the Infinity saga.
-
-[**Pokédex**][pokedex]: Pokédex with all 1017 pokémons.
-
-[**New Super Mario Bros. Minigames**][nsmb]: Recreation of the minigames of the game New Super Mario Bros.
+| Project | Description | Code | Web |
+| --- | --- | --- | --- |
+| TheWeather | A simple application to check the weather. | [View][theweather-c] | [Visit][theweather-d] |
+| dotBlog | Locate articles and breaking news headlines from news sources and blogs across the web with dotBlog. | [View][dotblog-c] | [Visit][dotblog-d] |
+| Kukoro: Stream chat games | Website to link your account to Kukoro and change your skin for those who have not purchased Kukoro. |  | [Visit][kukoro-d] |
+| UCM - Infinity Saga | All of the UCM films that make up the Infinity saga. | [View][ucm-c] | [Visit][ucm-d] |
+| New Super Mario Bros. Minigames | Recreation of the minigames of the game New Super Mario Bros. | [View][nsmb-minigames-c] | [Visit][nsmb-minigames-d] |
+| Hollow Knight - Hall of Gods | Recreation of the Hall of Gods from the video game Hollow knight. | [View][hollow-kinght-hog-c] | [Visit][hollow-kinght-hog-d] |
+| Systems of Cosmere | Interactive map of the Cosmere systems (Brandon Sanderson's universe) | [View][cosmere-systems-c] | [Visit][cosmere-systems-d] |
+| Pokédex | Pokédex with all 1017 pokémons. | [View][pokedex-c] | [Visit][pokedex-d] |
+| Copa de las Casas | LadySibi streamer LadySibi's house cup points counter. |  | [Visit][ladysibi] |
+| Portfolio | Compilation of some of my graphic and web development projects. | [View][porfolio-c] | [Visit][porfolio-d] |
+| Puzzle Cards | Mini card game with puzzles. | [View][puzzle-cards-c] | [Visit][puzzle-cards-d] |
 
 ## ◻ Contact
 
@@ -84,6 +79,7 @@ Mi objetivo es continuar desarrollándome en mi campo, buscando siempre nuevos r
 ![jQuery](https://img.shields.io/badge/jQuery-303030?style=flat&logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-303030?style=flat&logo=react&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-303030?style=flat&logo=react&logoColor=white)
 ![mySQL](https://img.shields.io/badge/mySQL-303030?style=flat&logo=mysql&logoColor=white)
 
 ![Vite](https://img.shields.io/badge/Vite-303030?style=flat&logo=vite&logoColor=white)
@@ -107,25 +103,19 @@ Mi objetivo es continuar desarrollándome en mi campo, buscando siempre nuevos r
 
 ## ◻ Proyectos
 
-[**Portfolio**][porfolio]: Recopilación de algunos de mis proyectos gráficos y de desarrollo web.
-
-[**Copa de las Casas**][ladysibi]: Contador de puntos de la copa de las casas de ls streamer LadySibi.
-
-[**Puzzle Cards**][puzzles]: Minijuego de cartas con puzles.
-
-[**Systems of Cosmere**][cosmere]: Mapa interactivo de los sistemas del Cosmere (universo de Brandon Sanderson)
-
-[**Prinet+**][prinet]: Plataforma de streaming (alpha)
-
-[**Hollow knight - Salón de los Dioses**][hollow]: Recreación del Salón de los Dioses del videojuego Hollow knight.
-
-[**Summancer**][summancer]: Juego de cartas aleatorias (en construcción)
-
-[**UCM - Saga Infinity**][marvel1]: Todas las películas del UCM que conforman la saga Infinity.
-
-[**Pokédex**][pokedex]: Pokédex con los 1017 pokémons.
-
-[**New Super Mario Bros. Minigames**][nsmb]: Recreación de los minijuegos del juego New Super Mario Bros.
+| Proyectos | Descripción | Código | Web |
+| --- | --- | --- | --- |
+| TheWeather | Una sencilla aplicación para consultar el tiempo. | [Ver][theweather-c] | [Visitar][theweather-d] |
+| dotBlog | Localiza artículos y titulares de última hora de fuentes de noticias y blogs de toda la Web con dotBlog. | [Ver][dotblog-c] | [Visitar][dotblog-d] |
+| Kukoro: Stream chat games | Sitio web para vincular tu cuenta a Kukoro y cambiar tu skin para quienes no han comprado Kukoro. |  | [Visitar][kukoro-d] |
+| UCM - Saga Infinity | Todas las películas del UCM que conforman la saga Infinity. | [Ver][ucm-c] | [Visitar][ucm-d] |
+| New Super Mario Bros. Minigames | Recreación de los minijuegos del juego New Super Mario Bros. | [Ver][nsmb-minigames-c] | [Visitar][nsmb-minigames-d] |
+| Hollow Knight - Salón de los Dioses | Recreación del Salón de los Dioses del videojuego Hollow knight. | [Ver][hollow-kinght-hog-c] | [Visitar][hollow-kinght-hog-d] |
+| Sistemas del Cosmere | Mapa interactivo de los sistemas del Cosmere (universo de Brandon Sanderson) | [Ver][cosmere-systems-c] | [Visitar][cosmere-systems-d] |
+| Pokédex | Pokédex con los 1017 pokémons. | [Ver][pokedex-c] | [Visitar][pokedex-d] |
+| Copa de las Casas | Contador de puntos de la copa de las casas de ls streamer LadySibi. |  | [Visitar][ladysibi] |
+| Portfolio | Recopilación de algunos de mis proyectos gráficos y de desarrollo web. | [Ver][porfolio-c] | [Visitar][porfolio-d] |
+| Puzzle Cards | Minijuego de cartas con puzles. | [Ver][puzzle-cards-c] | [Visitar][puzzle-cards-d] |
 
 ## ◻ Contacto
 
@@ -133,13 +123,23 @@ Mi objetivo es continuar desarrollándome en mi campo, buscando siempre nuevos r
 [![Codepen](https://img.shields.io/badge/Codepen-@GariCarandai-101010?style=for-the-badge&logo=codepen&?link=http://left&link=https://www.linkedin.com/in/patriciabecerracorbacho/&labelColor=303030)](https://codepen.io/GariCarandai)
 
 [//]: # 'Links'
-[porfolio]: https://adrian-gg.github.io
-[summancer]: https://adrian-gg.github.io/summancer/
-[prinet]: https://adrian-gg.github.io/prinet-web_react/
-[cosmere]: https://adrian-gg.github.io/cosmere_systems
-[hollow]: https://adrian-gg.github.io/hollow-knight-hog/
-[pokedex]: https://adrian-gg.github.io/pokedex
-[marvel1]: https://adrian-gg.github.io/ucm
-[puzzles]: https://adrian-gg.github.io/puzzle-cards/
+[theweather-c]: https://github.com/adrian-gg/theweather/
+[theweather-d]: https://adrian-gg.github.io/demos/theweather/
+[dotblog-c]: https://github.com/adrian-gg/dotblog/
+[dotblog-d]: https://adrian-gg.github.io/demos/dotblog/
+[kukoro-d]: https://kkr.heynaugames.com/
+[ucm-c]: https://github.com/adrian-gg/ucm/
+[ucm-d]: https://adrian-gg.github.io/ucm/
+[nsmb-minigames-c]: https://github.com/adrian-gg/nsmb-minigames/
+[nsmb-minigames-d]: https://adrian-gg.github.io/demos/nsmb-minigames/
+[hollow-kinght-hog-c]: https://github.com/adrian-gg/hollow-knight-hog/
+[hollow-kinght-hog-d]: https://adrian-gg.github.io/demos/hollow-knight-hog/
+[cosmere-systems-c]: https://github.com/adrian-gg/cosmere_systems
+[cosmere-systems-d]: https://adrian-gg.github.io/cosmere_systems/
+[pokedex-c]: https://github.com/adrian-gg/pokedex
+[pokedex-d]: https://adrian-gg.github.io/pokedex/
 [ladysibi]: https://copacasas.ladysibi.com/
-[nsmb]: https://adrian-gg.github.io/nsmb-minigames/
+[puzzle-cards-c]: https://github.com/adrian-gg/puzzle-cards/
+[puzzle-cards-d]: https://adrian-gg.github.io/puzzle-cards/
+[porfolio-c]: https://github.com/adrian-gg/adrian-gg.github.io
+[porfolio-d]: https://adrian-gg.github.io
