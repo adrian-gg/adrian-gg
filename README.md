@@ -134,12 +134,12 @@ Mi objetivo es continuar desarrollándome en mi campo, buscando siempre nuevos r
 [nsmb-minigames-d]: https://adrian-gg.github.io/demos/nsmb-minigames/
 [hollow-kinght-hog-c]: https://github.com/adrian-gg/hollow-knight-hog/
 [hollow-kinght-hog-d]: https://adrian-gg.github.io/demos/hollow-knight-hog/
-[cosmere-systems-c]: https://github.com/adrian-gg/cosmere_systems
-[cosmere-systems-d]: https://adrian-gg.github.io/cosmere_systems/
-[pokedex-c]: https://github.com/adrian-gg/pokedex
+[cosmere-systems-c]: https://github.com/adrian-gg/cosmere-systems/
+[cosmere-systems-d]: https://adrian-gg.github.io/cosmere-systems/
+[pokedex-c]: https://github.com/adrian-gg/pokedex/
 [pokedex-d]: https://adrian-gg.github.io/pokedex/
 [ladysibi]: https://copacasas.ladysibi.com/
 [puzzle-cards-c]: https://github.com/adrian-gg/puzzle-cards/
 [puzzle-cards-d]: https://adrian-gg.github.io/puzzle-cards/
-[porfolio-c]: https://github.com/adrian-gg/adrian-gg.github.io
-[porfolio-d]: https://adrian-gg.github.io
+[porfolio-c]: https://github.com/adrian-gg/adrian-gg.github.io/
+[porfolio-d]: https://adrian-gg.github.io/
