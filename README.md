@@ -42,6 +42,7 @@ My goal is to continue developing in my field, always looking for new challenges
 
 | Project | Description | Code | Web |
 | --- | --- | --- | --- |
+| SOZ | A simple strategy game. | [View][soz-c] | [Visit][soz-d] |
 | TheWeather | A simple application to check the weather. | [View][theweather-c] | [Visit][theweather-d] |
 | dotBlog | Locate articles and breaking news headlines from news sources and blogs across the web with dotBlog. | [View][dotblog-c] | [Visit][dotblog-d] |
 | Kukoro: Stream chat games | Website to link your account to Kukoro and change your skin for those who have not purchased Kukoro. |  | [Visit][kukoro-d] |
@@ -105,6 +106,7 @@ Mi objetivo es continuar desarrollándome en mi campo, buscando siempre nuevos r
 
 | Proyectos | Descripción | Código | Web |
 | --- | --- | --- | --- |
+| SOZ | Un sencillo juego de estrategia. | [Ver][soz-c] | [Visitar][soz-d] |
 | TheWeather | Una sencilla aplicación para consultar el tiempo. | [Ver][theweather-c] | [Visitar][theweather-d] |
 | dotBlog | Localiza artículos y titulares de última hora de fuentes de noticias y blogs de toda la Web con dotBlog. | [Ver][dotblog-c] | [Visitar][dotblog-d] |
 | Kukoro: Stream chat games | Sitio web para vincular tu cuenta a Kukoro y cambiar tu skin para quienes no han comprado Kukoro. |  | [Visitar][kukoro-d] |
@@ -123,6 +125,8 @@ Mi objetivo es continuar desarrollándome en mi campo, buscando siempre nuevos r
 [![Codepen](https://img.shields.io/badge/Codepen-@GariCarandai-101010?style=for-the-badge&logo=codepen&?link=http://left&link=https://www.linkedin.com/in/patriciabecerracorbacho/&labelColor=303030)](https://codepen.io/GariCarandai)
 
 [//]: # 'Links'
+[soz-c]: https://github.com/adrian-gg/soz/
+[soz-d]: https://adrian-gg.github.io/demos/soz/
 [theweather-c]: https://github.com/adrian-gg/theweather/
 [theweather-d]: https://adrian-gg.github.io/demos/theweather/
 [dotblog-c]: https://github.com/adrian-gg/dotblog/
