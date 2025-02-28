@@ -45,7 +45,7 @@ My goal is to continue developing in my field, always looking for new challenges
 
 | Project | Description | Code | Web |
 | --- | --- | --- | --- |
-| PELETA | A simple color palettes generator. | [View][paleta-c] | [Visit][paleta-d] |
+| PALETA | A simple color palettes generator. | [View][paleta-c] | [Visit][paleta-d] |
 | mincode | A template to showcase small projects. | [View][mincode-c] | [Visit][mincode-d] |
 | SOZ | A simple strategy game. | [View][soz-c] | [Visit][soz-d] |
 | TheWeather | A simple application to check the weather. | [View][theweather-c] | [Visit][theweather-d] |
@@ -119,7 +119,7 @@ Mi objetivo es continuar desarrollándome en mi campo, buscando siempre nuevos r
 
 | Proyectos | Descripción | Código | Web |
 | --- | --- | --- | --- |
-| PELETA | Un sencillo generador de paletas de colores. | [View][paleta-c] | [Visit][paleta-d] |
+| PALETA | Un sencillo generador de paletas de colores. | [View][paleta-c] | [Visit][paleta-d] |
 | mincode | Una plantilla para mostrar pequeños proyectos. | [Ver][mincode-c] | [Visitar][mincode-d] |
 | SOZ | Un sencillo juego de estrategia. | [Ver][soz-c] | [Visitar][soz-d] |
 | TheWeather | Una sencilla aplicación para consultar el tiempo. | [Ver][theweather-c] | [Visitar][theweather-d] |
