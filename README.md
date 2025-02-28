@@ -1,8 +1,10 @@
-# Hello world! I'm Adrián García
+# Hello world! I'm Adrián
 
 Technology and design enthusiast, specialized in creating and managing attractive and functional websites. I focus on improving the user experience, paying attention to every detail and using feedback as an essential tool for my professional growth.
 
 My goal is to continue developing in my field, always looking for new challenges and opportunities.
+
+<hr style="height: 0px; border: none;">
 
 ## ◻ Technology Stack
 
@@ -10,14 +12,14 @@ My goal is to continue developing in my field, always looking for new challenges
 
 ![HTML5](https://img.shields.io/badge/HTML5-303030?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-303030?style=flat&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-303030?style=flat&logo=tailwindcss&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-303030?style=flat&logo=sass&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-303030?style=flat&logo=javascript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-303030?style=flat&logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-303030?style=flat&logo=react&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-303030?style=flat&logo=react&logoColor=white)
-![mySQL](https://img.shields.io/badge/mySQL-303030?style=flat&logo=mysql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-303030?style=flat&logo=nextdotjs&logoColor=white)
 
 ![Vite](https://img.shields.io/badge/Vite-303030?style=flat&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-303030?style=flat&logo=git&logoColor=white)
@@ -30,18 +32,20 @@ My goal is to continue developing in my field, always looking for new challenges
 ![Construct3](https://img.shields.io/badge/Construct%203-303030?style=flat&logo=construct3&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-303030?style=flat&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-303030?style=flat&logo=godotengine&logoColor=white)
-
-![Blender](https://img.shields.io/badge/Blender-303030?style=flat&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-303030?style=flat&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-303030?style=flat&logo=adobeillustrator&logoColor=white)
 ![AfterEffects](https://img.shields.io/badge/After%20Effects-303030?style=flat&logo=adobeaftereffects&logoColor=white)
 ![PremierePro](https://img.shields.io/badge/Premiere%20Pro-303030?style=flat&logo=adobepremierepro&logoColor=white)
 ![InDesign](https://img.shields.io/badge/InDesign-303030?style=flat&logo=adobeindesign&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-303030?style=flat&logo=blender&logoColor=white)
+
+<hr style="height: 0px; border: none;">
 
 ## ◻ Projects
 
 | Project | Description | Code | Web |
 | --- | --- | --- | --- |
+| PELETA | A simple color palettes generator. | [View][paleta-c] | [Visit][paleta-d] |
 | mincode | A template to showcase small projects. | [View][mincode-c] | [Visit][mincode-d] |
 | SOZ | A simple strategy game. | [View][soz-c] | [Visit][soz-d] |
 | TheWeather | A simple application to check the weather. | [View][theweather-c] | [Visit][theweather-d] |
@@ -56,18 +60,25 @@ My goal is to continue developing in my field, always looking for new challenges
 | Portfolio | Compilation of some of my graphic and web development projects. | [View][porfolio-c] | [Visit][porfolio-d] |
 | Puzzle Cards | Mini card game with puzzles. | [View][puzzle-cards-c] | [Visit][puzzle-cards-d] |
 
+<hr style="height: 0px; border: none;">
+
 ## ◻ Contact
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Adrián%20García-101010?style=for-the-badge&logo=linkedin&labelColor=303030)](https://www.linkedin.com/in/garciagregoriadrian/)
+&nbsp;
 [![Codepen](https://img.shields.io/badge/Codepen-@GariCarandai-101010?style=for-the-badge&logo=codepen&?link=http://left&link=https://www.linkedin.com/in/patriciabecerracorbacho/&labelColor=303030)](https://codepen.io/GariCarandai)
 
----
+<hr style="height: 0px; padding-top: 20px; border: none; border-bottom: 3px solid #cccccc;">
 
-# ¡Hola mundo! Soy Adrián García
+<hr style="height: 40px; border: none;">
+
+# ¡Hola mundo! Soy Adrián
 
 Entusiasta de la tecnología y el diseño, especializado en la creación y gestión de sitios web atractivos y funcionales. Me enfoco en mejorar la experiencia del usuario, prestando atención a cada detalle y utilizando el feedback como herramienta esencial para mi crecimiento profesional.
 
 Mi objetivo es continuar desarrollándome en mi campo, buscando siempre nuevos retos y oportunidades.
+
+<hr style="height: 0px; border: none;">
 
 ## ◻ Stack tecnológico
 
@@ -75,14 +86,14 @@ Mi objetivo es continuar desarrollándome en mi campo, buscando siempre nuevos r
 
 ![HTML5](https://img.shields.io/badge/HTML5-303030?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-303030?style=flat&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-303030?style=flat&logo=tailwindcss&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-303030?style=flat&logo=sass&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-303030?style=flat&logo=javascript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-303030?style=flat&logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-303030?style=flat&logo=react&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-303030?style=flat&logo=react&logoColor=white)
-![mySQL](https://img.shields.io/badge/mySQL-303030?style=flat&logo=mysql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-303030?style=flat&logo=nextdotjs&logoColor=white)
 
 ![Vite](https://img.shields.io/badge/Vite-303030?style=flat&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-303030?style=flat&logo=git&logoColor=white)
@@ -95,18 +106,20 @@ Mi objetivo es continuar desarrollándome en mi campo, buscando siempre nuevos r
 ![Construct3](https://img.shields.io/badge/Construct%203-303030?style=flat&logo=construct3&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-303030?style=flat&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-303030?style=flat&logo=godotengine&logoColor=white)
-
-![Blender](https://img.shields.io/badge/Blender-303030?style=flat&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-303030?style=flat&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-303030?style=flat&logo=adobeillustrator&logoColor=white)
 ![AfterEffects](https://img.shields.io/badge/After%20Effects-303030?style=flat&logo=adobeaftereffects&logoColor=white)
 ![PremierePro](https://img.shields.io/badge/Premiere%20Pro-303030?style=flat&logo=adobepremierepro&logoColor=white)
 ![InDesign](https://img.shields.io/badge/InDesign-303030?style=flat&logo=adobeindesign&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-303030?style=flat&logo=blender&logoColor=white)
+
+<hr style="height: 0px; border: none;">
 
 ## ◻ Proyectos
 
 | Proyectos | Descripción | Código | Web |
 | --- | --- | --- | --- |
+| PELETA | Un sencillo generador de paletas de colores. | [View][paleta-c] | [Visit][paleta-d] |
 | mincode | Una plantilla para mostrar pequeños proyectos. | [Ver][mincode-c] | [Visitar][mincode-d] |
 | SOZ | Un sencillo juego de estrategia. | [Ver][soz-c] | [Visitar][soz-d] |
 | TheWeather | Una sencilla aplicación para consultar el tiempo. | [Ver][theweather-c] | [Visitar][theweather-d] |
@@ -121,12 +134,17 @@ Mi objetivo es continuar desarrollándome en mi campo, buscando siempre nuevos r
 | Portfolio | Recopilación de algunos de mis proyectos gráficos y de desarrollo web. | [Ver][porfolio-c] | [Visitar][porfolio-d] |
 | Puzzle Cards | Minijuego de cartas con puzles. | [Ver][puzzle-cards-c] | [Visitar][puzzle-cards-d] |
 
+<hr style="height: 0px; border: none;">
+
 ## ◻ Contacto
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Adrián%20García-101010?style=for-the-badge&logo=linkedin&labelColor=303030)](https://www.linkedin.com/in/garciagregoriadrian/)
+&nbsp;
 [![Codepen](https://img.shields.io/badge/Codepen-@GariCarandai-101010?style=for-the-badge&logo=codepen&?link=http://left&link=https://www.linkedin.com/in/patriciabecerracorbacho/&labelColor=303030)](https://codepen.io/GariCarandai)
 
 [//]: # 'Links'
+[paleta-c]: https://github.com/adrian-gg/paleta/
+[paleta-d]: https://paleta-gold.vercel.app/
 [mincode-c]: https://github.com/adrian-gg/mincode/
 [mincode-d]: https://adrian-gg.github.io/demos/mincode/
 [soz-c]: https://github.com/adrian-gg/soz/
