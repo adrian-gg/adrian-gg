@@ -45,6 +45,7 @@ My goal is to continue developing in my field, always looking for new challenges
 
 | Project | Description | Code | Web |
 | --- | --- | --- | --- |
+| Treyo | A Trello clone. | [View][treyo-c] | [Visit][treyo-d] |
 | PALETA | A simple color palettes generator. | [View][paleta-c] | [Visit][paleta-d] |
 | mincode | A template to showcase small projects. | [View][mincode-c] | [Visit][mincode-d] |
 | SOZ | A simple strategy game. | [View][soz-c] | [Visit][soz-d] |
@@ -119,7 +120,8 @@ Mi objetivo es continuar desarrollándome en mi campo, buscando siempre nuevos r
 
 | Proyectos | Descripción | Código | Web |
 | --- | --- | --- | --- |
-| PALETA | Un sencillo generador de paletas de colores. | [View][paleta-c] | [Visit][paleta-d] |
+| Treyo | Un clon de Trello. | [Ver][treyo-c] | [Visitar][treyo-d] |
+| PALETA | Un sencillo generador de paletas de colores. | [Ver][paleta-c] | [Visitar][paleta-d] |
 | mincode | Una plantilla para mostrar pequeños proyectos. | [Ver][mincode-c] | [Visitar][mincode-d] |
 | SOZ | Un sencillo juego de estrategia. | [Ver][soz-c] | [Visitar][soz-d] |
 | TheWeather | Una sencilla aplicación para consultar el tiempo. | [Ver][theweather-c] | [Visitar][theweather-d] |
@@ -143,6 +145,8 @@ Mi objetivo es continuar desarrollándome en mi campo, buscando siempre nuevos r
 [![Codepen](https://img.shields.io/badge/Codepen-@GariCarandai-101010?style=for-the-badge&logo=codepen&?link=http://left&link=https://www.linkedin.com/in/patriciabecerracorbacho/&labelColor=303030)](https://codepen.io/GariCarandai)
 
 [//]: # 'Links'
+[treyo-c]: https://github.com/adrian-gg/treyo/
+[treyo-d]: https://treyo.vercel.app/
 [paleta-c]: https://github.com/adrian-gg/paleta/
 [paleta-d]: https://paleta-gold.vercel.app/
 [mincode-c]: https://github.com/adrian-gg/mincode/
